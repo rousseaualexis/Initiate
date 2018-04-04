@@ -1,2 +1,5 @@
 # Initiate
-How to
+## Homebrew
+## Grunt
+## Mamp
+## Sublime
